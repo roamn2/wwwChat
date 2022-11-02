@@ -1,0 +1,11 @@
+NOTE FOR MARTIN:
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+The site's broken;
+      1. The time and ":" are there on site load and should be there AFTER clicking "Post".
+      2. Posting is completly broken. Doesn't work.
+      
+Plese fix it.
+Thanks.
+
+-roamn2
